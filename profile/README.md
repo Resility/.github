@@ -11,8 +11,6 @@ Resility es una empresa dedicada a la ciberseguridad, especializada en desarroll
 
 **Objetivo:** Automatizar tareas y haccerlas más eficientes, potenciar la seguridad y reducir vulnerabilidades.
 
----
-
 
 ## 🛡️ Seguridad
 La seguridad es nuestra prioridad. Antes de subir cualquier script o herramienta, asegúrate de revisar y cumplir con los lineamientos de ciberseguridad de Resility. Si detectas alguna vulnerabilidad en alguno de nuestros proyectos, repórtala directamente a nuestro equipo.
